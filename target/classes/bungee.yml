@@ -1,0 +1,5 @@
+name: CandyReportBungee
+version: 1.0
+main: com.oberkaydin.candyReportBungee.CandyReportBungee
+author: Berk AYDIN
+description: CandyReport BungeeCord extension
